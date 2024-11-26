@@ -4,7 +4,7 @@
   "main": "index.js",
   
     "scripts": {
-      "start": "node currencyService.js"
+       "start": "node api/currencies.js"
     },
   "keywords": [],
   "author": "",
